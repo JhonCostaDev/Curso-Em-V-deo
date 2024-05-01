@@ -1,7 +1,7 @@
 # Curso-Em-V-deo
 Meus Estudos na Plataforma Curso em Vídeo
 
-EN OF PYTHON
+# ZEN OF PYTHON
 Bonito é melhor que feio.
 Explícito é melhor que implícito
 Simples é melhor que Complexo
