@@ -4,14 +4,43 @@
 }
 
 body {
-    background-color: rgb(75, 9, 120);
-    color: antiquewhite;
+    background-color: rgb(55, 82, 203);
+    color: rgb(13, 6, 111);
 }
 
 main {
-    background-color: rgb(22, 26, 26);
+    background-color: rgb(224, 199, 216);
     width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+}
+h1 {
+    font-size: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+.container-imagens{
+    display: flex;
+}
+
+.logo{
+    width: 150px;
+    height: 150px;
+    float: inline-start;
+    
+    margin-left: 30px;
+}
+.logo-css{
+    width: 110px;
+    height: 150px;
+    float: inline-start;
+    
+    margin-left: 150px;
+}
+
+
+
+.text-align{
+    text-align: justify;
 }
